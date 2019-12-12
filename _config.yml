@@ -1,11 +1,11 @@
 # Site settings
-author: confident-token-1019
-title: 
+author: Theo Johnson
+title: T2wise4u
 header-img: img/home-bg.png
 email: theoonetj@gmail.com
-copyright_name: confident-token-1019
+copyright_name: Theo Johnson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Road to Software Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Theoonetj
